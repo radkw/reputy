@@ -1,0 +1,49 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font: 400 15px 'Calibri', sans-serif;
+  }
+  
+  #intro {
+    background: url("intro-bg.jpg") no-repeat center center;
+    height: 100%;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+  }
+  
+  #job-seekers {
+    background: url("job-seekers-bg.jpg") no-repeat center center;     
+    height: 100%;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+  }
+  
+  #employers {
+    background: url("employers-bg.jpg") no-repeat center center;       
+    height: 100%;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+  }
+  
+  #reputy {
+    background: url("reputy-bg.jpg") no-repeat center center;
+    height: 100%;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+  }
+  
+  h1, h2 {
+    text-align: center;
+    color: #050505;
+    padding-top: 50%;
+  }
+  
+  p {
+    text-align: center;
+    color: #050505;
+    padding: 2% 10% 0;
+  }
