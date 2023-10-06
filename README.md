@@ -2,7 +2,7 @@
 Remote.io mockup
 
 Mock-up project for company introducing blockchain technology into job recruitment. 
-Generated with the help gpt-4 through custom-built chatbot, after unsuccessful trials with Framer and its AI, which produced impressive designs but did not give access to see any of the code of the created websites. 
+Generated with the help gpt-4 through custom-built chatbot, after unsuccessful trials with Framer and its novel AI capability, which produced impressive designs but did not give access to see any of the code of the created websites. Interestingly, repeated requests for new designs resulted in freezing and having to wait to try again. Framer rely on OpenAI's and have limits of tokens per minute that can be used. 
 
 The prompt to gpt-4 API that generated the website is as follows:
 
